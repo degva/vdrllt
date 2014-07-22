@@ -52,7 +52,8 @@ ul#menu {
 	}
 
 		ul#menu li a {
-			background-color: rgba(100,100,100,0.6);
+			/* background-color: rgba(100,100,100,0.6); */
+			background-color: rgba(3, 104, 142, 0.6);
 			display: table-cell; /* This is so we can have the text in the middle */
 			height: 80px;
 			overflow: hidden;
@@ -73,4 +74,30 @@ ul#menu {
 a {
 	color: #999;
 	text-decoration: none;
+}
+
+#claim {
+	overflow: hidden;
+	position: absolute;
+	top: 160px;
+	height: 70px;
+	left: 25px;
+	width: 400px;
+}
+
+	#claim h1 {
+		color: #fff;
+	}
+
+	#claim h3 {
+		color: #ccc;
+	}
+
+#footer {
+	background-color: rgba(100, 100, 100, 0.4);
+	bottom: 0;
+	position: absolute;
+	height: 25px;
+	font-size: 14px;
+	width: 100%;
 }

@@ -34,9 +34,11 @@
 			<!-- menu -->
 			<div id='main-menu'>
 				<ul id='menu'>
+
 					<li>
 						<a class='menu-item' title='Inicio' href='#' style='background-image: url("img/logo.png"); width: 24px;'></a>
 					</li>
+
 					<li>
 						<a class='menu-item' title='Equipos' href='#'>Equipos</a>
 					</li>
@@ -51,11 +53,18 @@
 					</li>
 				</ul>
 			</div>
+			<!-- Claim -->
+			<div id='claim'>
+				<h1>VIDRILLETE™</h1>	
+				<h3>El cortador de botellas de vidrio perfecto ~</h3>
+			</div>
+
 			<!-- news -->
 
-			<!-- Claim -->
-
 			<!-- footer -->
+			<div id='footer'>
+				<div style='float:left; padding: 2px 0 0 10px;'>Vidrillete™ | Todos los derechos reservados - 2014</div>	
+			</div>
 		</div>
 	</body>
 </html>
