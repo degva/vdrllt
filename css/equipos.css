@@ -1,0 +1,48 @@
+.block-scrollable {
+	background: none scroll repeat 0 0 #ddd;
+	top: 200px;
+	left: 100px;
+	overflow: hidden;
+	position: absolute;
+	width: 600px;
+	height: 200px;
+}
+
+.scrollable {
+	height: 200px;
+	overflow: hidden;
+	width: 600px;
+	position: relative;
+}
+
+.items {
+	clear: both;
+	height: 2000px;
+	position: absolute;
+	width: 600px;
+}
+
+	.items div.scroll {
+		background-color: #ddd;
+		height: 200px;
+		width: 600px;
+	}
+
+	.scroll > .image {
+		float: left;
+		overflow: hidden;
+		width: 250px;
+		height: 200px;
+	}
+
+		.scroll > .image div {
+			height: 200px;
+		}
+
+	.scroll > .text {
+		float: left;
+		overflow: hidden;
+		padding: 25px 15px 0 25px;
+		width: 310px;
+		height: 175px;
+	}

@@ -1,6 +1,6 @@
 <!doctype html>
 <?php 
-	$page_title = 'Inicio';
+	$page_title = 'Equipos';
 ?>
 <html>
 	<head>
@@ -22,10 +22,25 @@
 			<!-- Menu -->
 			<?php include('includes/menu.php'); ?>
 
-			<!-- Claim -->
-			<div id='claim'>
-				<h1>VIDRILLETE™</h1>	
-				<h3>El cortador de botellas de vidrio perfecto ~</h3>
+			<!-- Equipos -->
+			<div class='block-scrollable'>
+				<div class='scrollable'>
+					<div class='items'>
+
+						<div class='scroll'>
+							<div class='image'>
+								<div>
+									<img src='http://placehold.it/250x200'>
+								</div>
+							</div>	
+							<div class='text'>
+								<h3>PQ003</h3>
+								<p>Este equipo es para... etc etc etc</p>
+							</div>	
+						</div>	
+
+					</div>
+				</div>
 			</div>
 
 			<!-- news -->

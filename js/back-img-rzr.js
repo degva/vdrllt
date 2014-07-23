@@ -3,7 +3,7 @@
  * @autor Diego Vargas
  */
 
-$(document).ready(function() {
+$(window).load(function() {
 
 	var win = $(window);
 
@@ -13,8 +13,8 @@ $(document).ready(function() {
 
 	$bg.css('width', win_w);
 
-	var bg_h = $bg.height(),
-			ntop = (-1) * ((bg_h - win_h) / 2);
+	var bg_h = $bg.height();
+	var ntop = (-1) * ((bg_h - win_h) / 2);
 
 	$bg.css('top', ntop);
 

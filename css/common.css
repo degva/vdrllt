@@ -67,6 +67,11 @@ ul#menu {
 				color: #eee;
 			}
 
+		ul#menu li a.active {
+			color: #eee;
+			cursor: default;
+		}
+
 		ul#menu li a img {
 			height: 80px;
 		}
