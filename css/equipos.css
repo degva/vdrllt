@@ -23,9 +23,11 @@
 }
 
 	.items div.scroll {
-		background-color: #ddd;
+		background-color: #fff;
 		height: 200px;
 		width: 600px;
+		position: relative;
+		top: 0px;
 	}
 
 	.scroll > .image {
@@ -46,3 +48,40 @@
 		width: 310px;
 		height: 175px;
 	}
+
+.brow-up-left {
+	position: absolute;
+	width: 30px;
+	height: 20px;
+	left: 100px;
+	top: 403px;
+}
+
+.brow-down-right {
+	position: absolute;
+	width: 30px;
+	height: 20px;
+	left: 133px;
+	top: 403px;
+}
+
+a.disabled {
+	cursor: default !important;
+	opacity: 0.2 !important;
+}
+
+a.prev, a.next{
+	cursor: pointer;
+	height: 20px;
+	width: 30px;
+	display: block;
+	opacity: 0.8;
+}
+
+a.prev {
+	background: url('../img/up-arrow.png') no-repeat scroll;
+}
+
+a.next {
+	background: url('../img/down-arrow.png') no-repeat scroll;
+}

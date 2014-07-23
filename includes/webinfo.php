@@ -12,7 +12,7 @@
 <?php
 	if ($page_title == 'Equipos') {
 ?>
-	<link href='css/equipos.css' media='all' type='text/css' rel='stylesheet'>
+		<link href='css/equipos.css' media='all' type='text/css' rel='stylesheet'>
 <?php
 	}
 ?>
@@ -23,3 +23,11 @@
 		<!-- JS links -->
 		<script src='js/jquery-1.11.1.min.js' type='text/javascript'></script>
 		<script src='js/back-img-rzr.js' type='text/javascript'></script>
+<?php
+	if ($page_title == 'Equipos') {
+?>
+		<script src='js/scrollable.js' type='text/javascript'></script>
+<?php
+	}
+?>
+

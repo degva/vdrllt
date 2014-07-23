@@ -1,7 +1,7 @@
 			<div id='main-menu'>
 				<ul id='menu'>
 					<li>
-						<a class='menu-item' title='Inicio' href='#' style='background-image: url("img/logo.png"); width: 24px;'></a>
+						<a class='menu-item' title='Inicio' href='index.php' style='background-image: url("img/logo.png"); width: 24px;'></a>
 					</li>
 					<li>
 						<a class='menu-item <?php if($page_title == 'Equipos') { echo 'active'; } ?>' title='Equipos' href='equipos.php'>Equipos</a>

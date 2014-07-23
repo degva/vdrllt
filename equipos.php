@@ -13,7 +13,7 @@
 		<!-- background -->
 		<div id="background">
 			<!-- background should be 1024x768 - just saying -->
-			<img id="bg" src="http://www.treerreceramiche.com/img/home/04.jpg" alt="" style="position: fixed; left: 0; top: 0; height: auto;" />	
+			<img id="bg" src="http://placehold.it/1024x768/000/ddd" alt="" style="position: fixed; left: 0; top: 0; height: auto;" />	
 		</div>
 
 		<!-- container -->
@@ -24,14 +24,32 @@
 
 			<!-- Equipos -->
 			<div class='block-scrollable'>
-				<div class='scrollable'>
+				<div class='scrollable up-down'>
 					<div class='items'>
+
+						<div class='scroll 0'>
+							<div class='image'>
+								<div><img src='http://placehold.it/250x200'></div>
+							</div>	
+							<div class='text'>
+								<h3>PQ001</h3>
+								<p>Este equipo es para... etc etc etc</p>
+							</div>	
+						</div>	
 
 						<div class='scroll'>
 							<div class='image'>
-								<div>
-									<img src='http://placehold.it/250x200'>
-								</div>
+								<div><img src='http://placehold.it/250x200'></div>
+							</div>	
+							<div class='text'>
+								<h3>PQ002</h3>
+								<p>Este equipo es para... etc etc etc</p>
+							</div>	
+						</div>	
+
+						<div class='scroll'>
+							<div class='image'>
+								<div><img src='http://placehold.it/250x200'></div>
 							</div>	
 							<div class='text'>
 								<h3>PQ003</h3>
@@ -39,10 +57,25 @@
 							</div>	
 						</div>	
 
+						<div class='scroll'>
+							<div class='image'>
+								<div><img src='http://placehold.it/250x200'></div>
+							</div>	
+							<div class='text'>
+								<h3>PQ004</h3>
+								<p>Este equipo es para... etc etc etc</p>
+							</div>	
+						</div>	
+
 					</div>
 				</div>
 			</div>
-
+			<div class='brow-up-left'>
+				<a class='prev disabled'></a>
+			</div>
+			<div class='brow-down-right'>
+				<a class='next'></a>
+			</div>
 			<!-- news -->
 
 			<!-- footer -->

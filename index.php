@@ -13,7 +13,7 @@
 		<!-- background -->
 		<div id="background">
 			<!-- background should be 1024x768 - just saying -->
-			<img id="bg" src="http://www.treerreceramiche.com/img/home/04.jpg" alt="" style="position: fixed; left: 0; top: 0; height: auto;" />	
+			<img id="bg" src="http://placehold.it/1024x768/000/ddd" alt="" style="position: fixed; left: 0; top: 0; height: auto;" />	
 		</div>
 
 		<!-- container -->
