@@ -27,6 +27,10 @@
 				<h1>VIDRILLETE™</h1>	
 				<h3>El cortador de botellas de vidrio perfecto ~</h3>
 				<p>Pasta ipsum dolor sit amet maccheroncelli stringozzi lanterne farfalle maltagliati. Ditalini stringozzi sagne 'ncannulate farfalle trenne fettuccine fagioloni vermicelli perciatelli. Campanelle pici creste di galli timpano trenette timpano spiralini fiorentine penne rigate pappardelle sacchettoni fedelini mafaldine vermicelloni torchio sorprese.</p>
+				<br>
+				<h4>Contacto</h4>
+				<p>Telf.: <b>(+51) 01 251 0209</b></p>
+				<p>E-mail: <a href='mailto:vidrillete@hotmail.com'><b>vidrillete@hotmail.com</b></a></p>
 			</div>
 
 			<!-- news -->
