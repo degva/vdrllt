@@ -22,6 +22,10 @@
 ?>
 		<link href='css/contacto.css' media='all' type='text/css' rel='stylesheet'>
 <?php
+	} else if ($page_title == 'Capacitación') {
+?>
+		<link href='css/capacita.css' media='all' type='text/css' rel='stylesheet'>
+<?php
 	}
 ?>
 		<link href='css/common.css' media='all' type='text/css' rel='stylesheet'>
@@ -32,10 +36,14 @@
 		<script src='js/jquery-1.11.1.min.js' type='text/javascript'></script>
 		<script src='js/back-img-rzr.js' type='text/javascript'></script>
 <?php
-	if ($page_title == 'Equipos' || $page_title == 'Galeria') {
+	if ($page_title == 'Equipos' || $page_title == 'Galeria' || $page_title == 'Capacitación') {
 ?>
 		<script src='js/scrollable.js' type='text/javascript'></script>
 <?php
 	}
+	if ($page_title == 'Capacitación') {
 ?>
-
+		<script src='js/capacita.js' type='text/javascript'></script>
+<?php
+	}
+?>
