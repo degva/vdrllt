@@ -1,0 +1,87 @@
+.block-scrollable {
+	background: none scroll repeat 0 0 #ddd;
+	top: 170px;
+	left: 100px;
+	overflow: hidden;
+	position: absolute;
+	width: 800px;
+	height: 400px;
+}
+
+.scrollable {
+	height: 400px;
+	overflow: hidden;
+	width: 800px;
+	position: relative;
+}
+
+.items {
+	clear: both;
+	height: 2000px;
+	position: absolute;
+	width: 800px;
+}
+
+	.items div.scroll {
+		background-color: #fff;
+		height: 400px;
+		width: 800px;
+		position: relative;
+		top: 0px;
+	}
+
+	.scroll > .image {
+		float: left;
+		overflow: hidden;
+		width: 500px;
+		height: 400px;
+	}
+
+		.scroll > .image div {
+			height: 200px;
+		}
+
+	.scroll > .text {
+		float: left;
+		overflow: hidden;
+		padding: 25px 15px 0 25px;
+		width: 260px;
+		height: 375px;
+	}
+
+.brow-up-left {
+	position: absolute;
+	width: 30px;
+	height: 20px;
+	left: 100px;
+	top: 573px;
+}
+
+.brow-down-right {
+	position: absolute;
+	width: 30px;
+	height: 20px;
+	left: 133px;
+	top: 573px;
+}
+
+a.disabled {
+	cursor: default !important;
+	opacity: 0.2 !important;
+}
+
+a.prev, a.next{
+	cursor: pointer;
+	height: 20px;
+	width: 30px;
+	display: block;
+	opacity: 0.8;
+}
+
+a.prev {
+	background: url('../img/up-arrow.png') no-repeat scroll;
+}
+
+a.next {
+	background: url('../img/down-arrow.png') no-repeat scroll;
+}

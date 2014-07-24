@@ -7,13 +7,13 @@
 						<a class='menu-item <?php if($page_title == 'Equipos') { echo 'active'; } ?>' title='Equipos' href='equipos.php'>Equipos</a>
 					</li>
 					<li>
-						<a class='menu-item' title='Galería' href='#'>Galería</a>
-					</li>
-					<li>
-						<a class='menu-item' title='Contáctenos' href='#'>Contáctenos</a>
+						<a class='menu-item <?php if($page_title == 'Galeria') { echo 'active'; } ?>' title='Galería' href='galeria.php'>Galería</a>
 					</li>
 					<li>
 						<a class='menu-item' title='Capacitación' href='#'>Capacitación</a>
+					</li>
+					<li>
+						<a class='menu-item <?php if($page_title == 'Contacto') { echo 'active'; } ?>' title='Contáctenos' href='contacto.php'>Contáctenos</a>
 					</li>
 				</ul>
 			</div>

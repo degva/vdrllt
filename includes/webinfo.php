@@ -14,6 +14,14 @@
 ?>
 		<link href='css/equipos.css' media='all' type='text/css' rel='stylesheet'>
 <?php
+	} else if ($page_title == 'Galeria') {
+?>
+		<link href='css/galeria.css' media='all' type='text/css' rel='stylesheet'>
+<?php
+	} else if ($page_title == 'Contacto') {
+?>
+		<link href='css/contacto.css' media='all' type='text/css' rel='stylesheet'>
+<?php
 	}
 ?>
 		<link href='css/common.css' media='all' type='text/css' rel='stylesheet'>
@@ -24,7 +32,7 @@
 		<script src='js/jquery-1.11.1.min.js' type='text/javascript'></script>
 		<script src='js/back-img-rzr.js' type='text/javascript'></script>
 <?php
-	if ($page_title == 'Equipos') {
+	if ($page_title == 'Equipos' || $page_title == 'Galeria') {
 ?>
 		<script src='js/scrollable.js' type='text/javascript'></script>
 <?php
