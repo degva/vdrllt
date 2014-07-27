@@ -5,11 +5,11 @@
 	overflow: hidden;
 	position: absolute;
 	width: 600px;
-	height: 200px;
+	height: 250px;
 }
 
 .scrollable {
-	height: 200px;
+	height: 250px;
 	overflow: hidden;
 	width: 600px;
 	position: relative;
@@ -24,7 +24,7 @@
 
 	.items div.scroll {
 		background-color: #fff;
-		height: 200px;
+		height: 250px;
 		width: 600px;
 		position: relative;
 		top: 0px;
@@ -34,19 +34,24 @@
 		float: left;
 		overflow: hidden;
 		width: 250px;
-		height: 200px;
+		height: 250px;
 	}
 
 		.scroll > .image div {
-			height: 200px;
+			height: 250px;
 		}
+
+			.scroll > .image div > img {
+				height: 250px;
+				width: 250px;
+			}
 
 	.scroll > .text {
 		float: left;
 		overflow: hidden;
 		padding: 25px 15px 0 25px;
 		width: 310px;
-		height: 175px;
+		height: 225px;
 	}
 
 .brow-up-left {
@@ -54,7 +59,7 @@
 	width: 30px;
 	height: 20px;
 	left: 100px;
-	top: 403px;
+	top: 453px;
 }
 
 .brow-down-right {
@@ -62,7 +67,7 @@
 	width: 30px;
 	height: 20px;
 	left: 133px;
-	top: 403px;
+	top: 453px;
 }
 
 a.disabled {

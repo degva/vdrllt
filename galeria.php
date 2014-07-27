@@ -13,7 +13,7 @@
 		<!-- background -->
 		<div id="background">
 			<!-- background should be 1024x768 - just saying -->
-			<img id="bg" src="http://placehold.it/1024x768/000/ddd" alt="" style="position: fixed; left: 0; top: 0; height: auto;" />	
+			<img id="bg" src="img/background.png" alt="" style="position: fixed; left: 0; top: 0; height: auto;" />	
 		</div>
 
 		<!-- container -->
@@ -29,41 +29,31 @@
 
 						<div class='scroll 0'>
 							<div class='image'>
-								<div><img src='http://placehold.it/500x400'></div>
+								<div><img src='img/galeria/001.png'></div>
 							</div>	
 							<div class='text'>
-								<h3>PQ001</h3>
-								<p>Este equipo es para... etc etc etc</p>
+								<h3>Botella de cocos</h3>
+								<p>Vidrillete corta botellas de distintas texturas</p>
 							</div>	
 						</div>	
 
 						<div class='scroll'>
 							<div class='image'>
-								<div><img src='http://placehold.it/500x400'></div>
+								<div><img src='img/galeria/002.png'></div>
 							</div>	
 							<div class='text'>
-								<h3>PQ002</h3>
-								<p>Este equipo es para... etc etc etc</p>
+								<h3>Botella hexagonal</h3>
+								<p>Vidrillete corta botellas de distintos perfiles</p>
 							</div>	
 						</div>	
 
 						<div class='scroll'>
 							<div class='image'>
-								<div><img src='http://placehold.it/500x400'></div>
+								<div><img src='img/galeria/003.png'></div>
 							</div>	
 							<div class='text'>
-								<h3>PQ003</h3>
-								<p>Este equipo es para... etc etc etc</p>
-							</div>	
-						</div>	
-
-						<div class='scroll'>
-							<div class='image'>
-								<div><img src='http://placehold.it/500x400'></div>
-							</div>	
-							<div class='text'>
-								<h3>PQ004</h3>
-								<p>Este equipo es para... etc etc etc</p>
+								<h3>Botella ---</h3>
+								<p>---</p>
 							</div>	
 						</div>	
 
@@ -79,9 +69,9 @@
 			<!-- news -->
 
 			<!-- footer -->
-			<div id='footer'>
-				<div style='float:left; padding: 2px 0 0 10px;'>Vidrillete™ | Todos los derechos reservados - 2014</div>	
-			</div>
+<?php
+	include('includes/footer.php');
+?>
 		</div>
 	</body>
 </html>
