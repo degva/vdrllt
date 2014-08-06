@@ -37,6 +37,15 @@
 									- Tiene mejor desempeño en botellas regulares o comunes<br>
 									- Pesa 2.2 kg y es totalmente desarmable<br>
 									- Incluye manual de instrucciones</p>
+								<div class='paypal-btn'>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="AU85VK9MX8GR8">
+<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+</form>
+								</div>
+
 							</div>	
 						</div>	
 
@@ -50,6 +59,14 @@
 - Tiene mejor desempeño en botellones, garrafas y damajuanas <br>
 - Pesa 2.5 kg y es totalmente desarmable <br>
 - Incluye manual de instrucciones</p>
+								<div class='paypal-btn'>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="46XRHR268HUVN">
+<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+</form>
+								</div>
 							</div>	
 						</div>	
 
@@ -62,7 +79,8 @@
 								<p>- Corta cualquier botella del pico hacia la base; cortes rectos o cualquier otro<br>
 - Toma 3 a 5min el proceso de corte<br>
 - Pesa 12 kg y es de 380 watts<br>
-- Incluye manual de instrucciones</p>
+- Incluye manual de instrucciones<br>
+<b> - Escribanos para comprar</b></p>
 							</div>	
 						</div>	
 
@@ -75,7 +93,8 @@
 								<p>- Corta botellas de 2.5 a 10 cm de diámetro<br>
 - Su uso es para botellas cilíndricas especialmente<br>
 - Pesa 1.1 kg<br>
-- Incluye manual de instrucciones.</p>
+- Incluye manual de instrucciones.
+<b> - Escribanos para comprar</b></p>
 							</div>	
 						</div>	
 
@@ -88,7 +107,8 @@
 								<p>- Piedra de 20 cm diámetro y 2.5 cm grosor para esmerilar vidrio<br>
 - Grano 80 mediano. Reemplazable a granos más finos<br>
 - Pesa 12 kg y tiene 380 watts<br>
-- Incluye manual de instrucciones</p>
+- Incluye manual de instrucciones
+<b> - Escribanos para comprar</b></p>
 							</div>	
 						</div>	
 
@@ -101,7 +121,8 @@
 								<p>- Para trabajos continuos y de alta intensidad<br>
 - Presisa de un controlador de temperatura y es solo para botellas de 5 a 8 cm de diametro<br>
 - Pesa 2.2kg y es totalmente desarmable<br>
-- Incluye manual de instrucciones</p>
+- Incluye manual de instrucciones
+ <b> - Escribanos para comprar</b></p>
 							</div>	
 						</div>	
 

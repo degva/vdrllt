@@ -90,3 +90,8 @@ a.prev {
 a.next {
 	background: url('../img/down-arrow.png') no-repeat scroll;
 }
+
+.paypal-btn {
+	padding: 10px;
+	position: absolute;
+}
