@@ -93,7 +93,7 @@
 								<p>- Corta botellas de 2.5 a 10 cm de diámetro<br>
 - Su uso es para botellas cilíndricas especialmente<br>
 - Pesa 1.1 kg<br>
-- Incluye manual de instrucciones.
+- Incluye manual de instrucciones.<br>
 <b> - Escribanos para comprar</b></p>
 							</div>	
 						</div>	
@@ -107,7 +107,7 @@
 								<p>- Piedra de 20 cm diámetro y 2.5 cm grosor para esmerilar vidrio<br>
 - Grano 80 mediano. Reemplazable a granos más finos<br>
 - Pesa 12 kg y tiene 380 watts<br>
-- Incluye manual de instrucciones
+- Incluye manual de instrucciones<br>
 <b> - Escribanos para comprar</b></p>
 							</div>	
 						</div>	
@@ -121,7 +121,7 @@
 								<p>- Para trabajos continuos y de alta intensidad<br>
 - Presisa de un controlador de temperatura y es solo para botellas de 5 a 8 cm de diametro<br>
 - Pesa 2.2kg y es totalmente desarmable<br>
-- Incluye manual de instrucciones
+- Incluye manual de instrucciones<br>
  <b> - Escribanos para comprar</b></p>
 							</div>	
 						</div>	
