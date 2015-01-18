@@ -1,0 +1,98 @@
+/* CSS for
+ * vidrillete.com.pe
+ *
+ * by Diego Vargas
+ * degva.29(at)gmail.com
+ */
+
+body {
+	background: url('../img/symphony.png');
+	margin: 0;
+}
+
+.container {
+	position: relative;
+	width: 750px;
+	margin: 0 auto;
+}
+
+#header {
+	position: absolute;
+	height: 75px;
+	width: 100%;
+	border: none;
+	border-bottom: 1px solid #3C739C;
+	background: #FFFFFF;
+}
+
+	#header .logo {
+		position: relative;
+		float: left;
+		width: auto;
+		height: 75px;
+	}
+
+		.logo h1 {
+			font-size: 30px;
+			margin-bottom: 19px;
+			color: #3C739C;
+		}
+
+	#header nav {
+		position: relative;
+		float: right;
+		height: 75px;
+		width: auto;
+	}
+		
+		nav ul {
+			height: 75px;
+			margin: 0;
+			padding: 0;
+		}
+
+			ul li {
+				position: relative;
+				float: left;
+				display: inline;
+				padding-left: 20px;
+				padding-right: 20px;
+				padding-top: 27px;
+				padding-bottom: 27px;
+				cursor: pointer;
+
+				transition: background 0.3s ease;
+			}
+
+				li a {
+					color: #3C739C;
+					text-decoration: none;
+					font-size: 17px;
+					transition: color 0.3s ease;
+				}
+
+			ul li:hover {
+				background: #3C739C;
+				transition: background 0.3s ease;
+			}
+
+				li:hover a {
+					color: #fff;
+					transition: color 0.3s ease;
+				}
+
+
+#content {
+	position: relative;
+	height: auto;
+	top: 76px;
+}
+
+	#content .container {
+		background: rgba(197, 211, 222, 0.3);
+		border: none;
+		border-right: 1px solid #3C739C;
+		border-left: 1px solid #3C739C;	
+		min-height: 890px;
+	}
+				
