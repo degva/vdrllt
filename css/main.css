@@ -95,4 +95,15 @@ body {
 		border-left: 1px solid #3C739C;	
 		min-height: 890px;
 	}
-				
+		.container h2 {
+			margin-top: 0px;
+			margin-left: 19px;
+			padding-top: 19px;
+		}
+
+		.container .pics .vidri {
+			position: relative;
+			float: right;
+			width: 350px;	
+			margin-right: 19px;
+		}
