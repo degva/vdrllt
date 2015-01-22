@@ -8,6 +8,15 @@
 body {
 	background: url('../img/symphony.png');
 	margin: 0;
+	font-family: 'Open Sans', sans;
+}
+
+a, h1 {
+	font-family: 'Yanone Kaffeesatz', sans;
+}
+
+h2, h3 {
+	font-family: 'Lobster', cursive;
 }
 
 .container {
@@ -33,8 +42,10 @@ body {
 	}
 
 		.logo h1 {
+			font-family: 'Lobster', sans;
 			font-size: 30px;
-			margin-bottom: 19px;
+			margin-bottom: 16px;
+			margin-top: 17px;
 			color: #3C739C;
 		}
 
@@ -55,10 +66,7 @@ body {
 				position: relative;
 				float: left;
 				display: inline;
-				padding-left: 20px;
-				padding-right: 20px;
-				padding-top: 27px;
-				padding-bottom: 27px;
+				padding: 26px 20px;
 				cursor: pointer;
 
 				transition: background 0.3s ease;
@@ -96,9 +104,14 @@ body {
 		min-height: 890px;
 	}
 		.container h2 {
+			background: #FFB655;
+			border-bottom: 2px solid #AC6200;
+			color: white;
+			text-shadow: 1px 1px #3C739C;
 			margin-top: 0px;
-			margin-left: 19px;
-			padding-top: 19px;
+			text-align: center;
+			padding-top: 15px;
+			padding-bottom: 15px;
 		}
 
 		.container .pics .vidri {
