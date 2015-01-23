@@ -56,13 +56,13 @@ h2, h3 {
 		width: auto;
 	}
 		
-		nav ul {
+		#header nav ul {
 			height: 75px;
 			margin: 0;
 			padding: 0;
 		}
 
-			ul li {
+			nav ul li {
 				position: relative;
 				float: left;
 				display: inline;
@@ -72,14 +72,14 @@ h2, h3 {
 				transition: background 0.3s ease;
 			}
 
-				li a {
+				nav li a {
 					color: #3C739C;
 					text-decoration: none;
 					font-size: 17px;
 					transition: color 0.3s ease;
 				}
 
-			ul li:hover {
+			nav ul li:hover {
 				background: #3C739C;
 				transition: background 0.3s ease;
 			}
@@ -120,3 +120,21 @@ h2, h3 {
 			width: 350px;	
 			margin-right: 19px;
 		}
+
+#footer {
+	position: relative;
+	height: 250px;
+	border-top: 3px solid #003E6E;
+	border-right: 1px solid #3C739C;
+	border-left: 1px solid #3C739C;	
+}
+
+	#footer canvas {
+		z-index: 0;
+		position: absolute;
+	}
+
+	#footer #nav {
+		z-index: 1;
+		position: relative;
+	}
