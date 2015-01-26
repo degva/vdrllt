@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="142"
+   width="112"
    height="75"
    id="svg3030"
    version="1.1"
@@ -65,45 +65,45 @@
      transform="translate(0,-977.36114)">
     <text
        xml:space="preserve"
-       style="font-size:42.05842972px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1.8766421"
-       y="1035.8112"
+       style="font-size:33.11334610000000112px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1.5672196"
+       y="1028.1941"
        id="text3002"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3004"
-         x="1.8766421"
-         y="1035.8112"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Dosis;-inkscape-font-specification:Dosis">Vidrillete</tspan></text>
+         x="1.5672196"
+         y="1028.1941"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Dosis;-inkscape-font-specification:Dosis">Vidrillete</tspan></text>
     <path
-       transform="matrix(2.437214,0,0,2.0817873,-751.814,-596.62438)"
+       transform="matrix(1.9188619,0,0,1.639028,-591.82682,-257.05025)"
        d="m 315.16758,765.85767 a 1.294258,1.5152289 0 1 1 -2.58852,0 1.294258,1.5152289 0 1 1 2.58852,0 z"
        sodipodi:ry="1.5152289"
        sodipodi:rx="1.294258"
        sodipodi:cy="765.85767"
        sodipodi:cx="313.87332"
        id="path3022"
-       style="fill:#000000;fill-opacity:1;stroke:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        sodipodi:type="arc" />
     <path
        sodipodi:type="arc"
-       style="fill:#000000;fill-opacity:1;stroke:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="path3024"
        sodipodi:cx="313.87332"
        sodipodi:cy="765.85767"
        sodipodi:rx="1.294258"
        sodipodi:ry="1.5152289"
        d="m 315.16758,765.85767 a 1.294258,1.5152289 0 1 1 -2.58852,0 1.294258,1.5152289 0 1 1 2.58852,0 z"
-       transform="matrix(1.2186077,0,0,1.0408934,-380.48947,201.55671)" />
+       transform="matrix(0.95943152,0,0,0.81951387,-299.47642,371.3719)" />
     <path
-       transform="matrix(1.2186077,0,0,1.0408934,-357.54364,201.55673)"
+       transform="matrix(0.95943152,0,0,0.81951387,-281.41076,371.37192)"
        d="m 315.16758,765.85767 a 1.294258,1.5152289 0 1 1 -2.58852,0 1.294258,1.5152289 0 1 1 2.58852,0 z"
        sodipodi:ry="1.5152289"
        sodipodi:rx="1.294258"
        sodipodi:cy="765.85767"
        sodipodi:cx="313.87332"
        id="path3026"
-       style="fill:#000000;fill-opacity:1;stroke:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        sodipodi:type="arc" />
   </g>
 </svg>
