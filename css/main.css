@@ -26,6 +26,9 @@ body {
 	background-color: rgba(9, 110, 188, 0.6);;
 }
 
+	#header #intro {
+		top: 75px;
+	}
 	#header .logo {
 		position: relative;
 		float: left;
@@ -81,6 +84,7 @@ body {
 	top: 500px;
 }
 
+
 	#content .container {
 		background: rgba(197, 211, 222, 0.3);
 		border: none;
@@ -89,8 +93,10 @@ body {
 		min-height: 890px;
 	}
 		.container h2 {
+			/*
 			background: #FFB655;
 			border-bottom: 2px solid #AC6200;
+			*/
 			color: white;
 			text-shadow: 1px 1px #3C739C;
 			margin-top: 0px;
