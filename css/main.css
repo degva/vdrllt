@@ -8,15 +8,7 @@
 body {
 	background: url('../img/symphony.png');
 	margin: 0;
-	font-family: 'Open Sans', sans;
-}
-
-a, h1 {
-	font-family: 'Yanone Kaffeesatz', sans;
-}
-
-h2, h3 {
-	font-family: 'Lobster', cursive;
+	font-family: 'Dosis', serif;
 }
 
 .container {
@@ -27,11 +19,11 @@ h2, h3 {
 
 #header {
 	position: absolute;
-	height: 75px;
+	height: 500px;
 	width: 100%;
 	border: none;
-	border-bottom: 1px solid #3C739C;
-	background: #FFFFFF;
+	border-bottom: 2px solid #3C739C;
+	background-color: rgba(9, 110, 188, 0.6);;
 }
 
 	#header .logo {
@@ -42,11 +34,10 @@ h2, h3 {
 	}
 
 		.logo h1 {
-			font-family: 'Lobster', sans;
 			font-size: 30px;
 			margin-bottom: 16px;
 			margin-top: 17px;
-			color: #3C739C;
+			color: #003E6E;
 		}
 
 	#header nav {
@@ -68,21 +59,15 @@ h2, h3 {
 				display: inline;
 				padding: 26px 20px;
 				cursor: pointer;
-
-				transition: background 0.3s ease;
 			}
 
 				nav li a {
-					color: #3C739C;
+					color: #003E6E;
 					text-decoration: none;
-					font-size: 17px;
+					font-size: 14px;
+					font-weight: bold;
 					transition: color 0.3s ease;
 				}
-
-			nav ul li:hover {
-				background: #3C739C;
-				transition: background 0.3s ease;
-			}
 
 				li:hover a {
 					color: #fff;
@@ -93,7 +78,7 @@ h2, h3 {
 #content {
 	position: relative;
 	height: auto;
-	top: 76px;
+	top: 500px;
 }
 
 	#content .container {
