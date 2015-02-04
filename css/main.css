@@ -8,18 +8,19 @@
 body {
 	background: url('../img/symphony.png');
 	margin: 0;
-	font-family: 'Dosis', serif;
+	font-family: 'Dosis', sans-serif;
 }
 
 .container {
 	position: relative;
-	width: 750px;
+	width: 950px;
 	margin: 0 auto;
+	height: 75px;
 }
 
 #header {
 	position: absolute;
-	height: 500px;
+	height: 600px;
 	width: 100%;
 	border: none;
 	border-bottom: 2px solid #3C739C;
@@ -27,13 +28,21 @@ body {
 }
 
 	#header #intro {
-		top: 75px;
+		height: 525px;
+		text-align: center;
 	}
+
+		#intro img {
+			height: 400px;
+			position: relative;
+		}
+
 	#header .logo {
 		position: relative;
 		float: left;
 		width: auto;
 		height: 75px;
+		pointer-events: none;
 	}
 
 		.logo h1 {
@@ -67,7 +76,7 @@ body {
 				nav li a {
 					color: #003E6E;
 					text-decoration: none;
-					font-size: 14px;
+					font-size: 17px;
 					font-weight: bold;
 					transition: color 0.3s ease;
 				}
@@ -81,7 +90,7 @@ body {
 #content {
 	position: relative;
 	height: auto;
-	top: 500px;
+	top: 600px;
 }
 
 
@@ -103,13 +112,6 @@ body {
 			text-align: center;
 			padding-top: 15px;
 			padding-bottom: 15px;
-		}
-
-		.container .pics .vidri {
-			position: relative;
-			float: right;
-			width: 350px;	
-			margin-right: 19px;
 		}
 
 #footer {
