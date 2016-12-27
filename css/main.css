@@ -1,0 +1,133 @@
+/* CSS for
+ * vidrillete.com.pe
+ *
+ * by Diego Vargas
+ * degva.29(at)gmail.com
+ */
+
+body {
+	background: url('../img/symphony.png');
+	margin: 0;
+	font-family: 'Dosis', sans-serif;
+}
+
+.container {
+	position: relative;
+	width: 950px;
+	margin: 0 auto;
+	height: 75px;
+}
+
+#header {
+	position: absolute;
+	height: 600px;
+	width: 100%;
+	border: none;
+	border-bottom: 2px solid #3C739C;
+	background-color: rgba(9, 110, 188, 0.6);;
+}
+
+	#header #intro {
+		height: 525px;
+		text-align: center;
+	}
+
+		#intro img {
+			height: 400px;
+			position: relative;
+		}
+
+	#header .logo {
+		position: relative;
+		float: left;
+		width: auto;
+		height: 75px;
+		pointer-events: none;
+	}
+
+		.logo h1 {
+			font-size: 30px;
+			margin-bottom: 16px;
+			margin-top: 17px;
+			color: #003E6E;
+		}
+
+	#header nav {
+		position: relative;
+		float: right;
+		height: 75px;
+		width: auto;
+	}
+		
+		#header nav ul {
+			height: 75px;
+			margin: 0;
+			padding: 0;
+		}
+
+			nav ul li {
+				position: relative;
+				float: left;
+				display: inline;
+				padding: 26px 20px;
+				cursor: pointer;
+			}
+
+				nav li a {
+					color: #003E6E;
+					text-decoration: none;
+					font-size: 17px;
+					font-weight: bold;
+					transition: color 0.3s ease;
+				}
+
+				li:hover a {
+					color: #fff;
+					transition: color 0.3s ease;
+				}
+
+
+#content {
+	position: relative;
+	height: auto;
+	top: 600px;
+}
+
+
+	#content .container {
+		background: rgba(197, 211, 222, 0.3);
+		border: none;
+		border-right: 1px solid #3C739C;
+		border-left: 1px solid #3C739C;	
+		min-height: 890px;
+	}
+		.container h2 {
+			/*
+			background: #FFB655;
+			border-bottom: 2px solid #AC6200;
+			*/
+			color: white;
+			text-shadow: 1px 1px #3C739C;
+			margin-top: 0px;
+			text-align: center;
+			padding-top: 15px;
+			padding-bottom: 15px;
+		}
+
+#footer {
+	position: relative;
+	height: 250px;
+	border-top: 3px solid #003E6E;
+	border-right: 1px solid #3C739C;
+	border-left: 1px solid #3C739C;	
+}
+
+	#footer canvas {
+		z-index: 0;
+		position: absolute;
+	}
+
+	#footer #nav {
+		z-index: 1;
+		position: relative;
+	}

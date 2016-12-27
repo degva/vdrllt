@@ -2,6 +2,10 @@
  * Globals
  */
 
+* {
+  outline: none;
+}
+
 /* Links */
 a,
 a:focus,
@@ -33,6 +37,16 @@ body {
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+
+/*
+ * Header & Links
+ */
+div#header a {
+  padding: 12px;
+  position: relative;
+  float: right;
+  font-family: Comfortaa;
 }
 
 /*

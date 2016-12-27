@@ -1,0 +1,47 @@
+@font-face {
+	font-family: OstrichSans;
+	src: url('../fonts/OstrichSans-Heavy.otf');
+}
+
+#logo img {
+	width: 33vh;
+}
+
+#logo p {
+	color: #ffffff;
+}
+
+#pilares {
+	background-color: #00803D;
+}
+
+#pilares h1, 
+#pilares h2,
+#pilares h3,
+#pilares h4,
+#pilares p 
+{
+	color: #fff !important;
+}
+
+#pilares img 
+{
+	height: 20vh;
+}
+
+#mission {
+	background: url('../../images/ricepaper.png');
+}
+
+h1, h2, h3, h4, strong {
+	color: #00803D;
+	font-family: OstrichSans;
+}
+
+a, p {
+	color: #3B9444;
+}
+
+#footer p{
+	color: #fff;
+}
